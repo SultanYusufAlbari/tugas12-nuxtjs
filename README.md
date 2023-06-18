@@ -7,11 +7,11 @@ NuxtJS
   - [x] Nilai Tugas
 
 2. Tampilkan daftar siswa yang telah di input di bawah tampilan form.
-[x] Sudah Selesai
+- [x] Sudah Selesai
 3. Hitung rata-rata nilai tugas dan tampilkan pada halaman.
-[x] Sudah Selesai
+- [x] Sudah Selesai
 4. Form dan Daftar siswa dibuat menjadi 2 komponen yang berbeda
-[x] Sudah Selesai
+- [x] Sudah Selesai
 
 PETUNJUK JALAN
 1. NPM I
